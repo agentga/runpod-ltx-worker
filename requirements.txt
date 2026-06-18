@@ -1,6 +1,7 @@
-diffusers>=0.34
-transformers>=4.44
-accelerate>=0.34
+git+https://github.com/huggingface/diffusers.git
+transformers>=4.49
+accelerate>=1.0
+ftfy
 imageio>=2.34
 imageio-ffmpeg>=0.5
 sentencepiece>=0.2
