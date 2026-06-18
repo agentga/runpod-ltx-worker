@@ -1,0 +1,8 @@
+diffusers>=0.34
+transformers>=4.44
+accelerate>=0.34
+imageio>=2.34
+imageio-ffmpeg>=0.5
+sentencepiece>=0.2
+protobuf>=4.25
+runpod>=1.6
